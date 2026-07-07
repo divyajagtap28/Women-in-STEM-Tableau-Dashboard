@@ -14,7 +14,7 @@ This project analyzes gender representation across STEM (Science, Technology, En
 
 The goal was to move beyond a static chart and build a dashboard that supports genuine exploration — the kind a analyst or policy researcher could use to answer follow-up questions rather than just view a fixed snapshot.
 
-**[View Live Dashboard on Tableau Public →](#)** *(add link once published)*
+
 
 ---
 
